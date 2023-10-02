@@ -9,7 +9,9 @@
     "indent": "off",
     "object-curly-spacing": "off",
     "require-jsdoc": "off",
-    "eol-last": "off"
+    "eol-last": "off",
+    "brace-style": "off",
+    "arrow-parens": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
